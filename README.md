@@ -17,6 +17,7 @@
 &nbsp;
 
 ## 📧 Contact
+
 **Naver.** kjs940426@naver.com &nbsp; <br>
 **Gmail.** dkdlvhs94@gmail.com &nbsp; <br>
 **GitHub.** https://github.com/cpu624049 &nbsp; <br>
@@ -25,6 +26,7 @@
 &nbsp;
 
 ## 🛠️ Skills
+
 <img src="./icons/java_icon.png" width="60px" height="30px"/> &nbsp; **Java** &nbsp;&nbsp;&nbsp;
 <img src="./icons/spring_icon.png" width="30px" height="30px"/> &nbsp; **Spring** &nbsp;&nbsp;&nbsp;
 
@@ -60,6 +62,7 @@
 &nbsp;
 
 **💡 [프로젝트 개요]**
+
 - 기존의 인테리어 견적 및 상담 과정이 너무 불편하고 복잡하다. &nbsp; <br>
 - 또한 견적 및 상담 비용이 업체별, 상황별로 너무 천차만별이다. &nbsp; <br>
 - 쉽고 간단하게 견적을 미리 내볼 수 있고, 빠르게 업체와 컨택할 수 있는 플랫폼 개발. &nbsp; <br>
@@ -67,6 +70,7 @@
 &nbsp;
 
 **👷 [맡은 역할]**
+
 - 팀장 &nbsp; <br>
 - Main Page, 통합 검색 Page &nbsp; <br>
 - DB &nbsp; <br>
@@ -74,11 +78,37 @@
 &nbsp;
 
 **✨ [기능 설명]**
-- [팀장] : 협업과 소통을 위해 Figma, Jira 등의 사용 권유, Git 교육 자료 생성 및 교육, 팀 상황에 맞는 Git Branch 전략 수립. &nbsp; <br>
-- [Main Page] : Header/Footer 구현, Carousel Img 구현, 각 Category 별 대표 Preview 이미지/링크 기능 구현. &nbsp; <br>
-- [통합 검색 Page] : Keyword 검색 - Query문 작업 - 출력 / DB 에서 Keyword 에 맞는 검색내용 출력. &nbsp; <br>
-- [DB] : 전체적인 구조설계, Web Crawling 을 사용한 Data 수집, Data 취합 및 적용 &nbsp; <br>
 
+ 1. 팀장 &nbsp; <br>
+  - 협업을 위해 Jira, Figma 등의 툴 제시. &nbsp; <br>
+  - Git 교육 자료 제작 및 교육진행, 팀 상황에 맞는 Git Branch 전략 수립. &nbsp; <br>
+  - Git Convention 및 Code Convention 을 제시함으로써 팀 간 소통이 원활해지도록 노력. &nbsp; <br>
+
+&nbsp;
+
+ 2. Main Page &nbsp; <br>
+  - Carousel Img 출력, Carousel이 일정 시간이 지남에 따라 자동으로 전환되는 Script 구현 &nbsp; <br>
+  - 각 Category별 대표 업체 / 상품 등을 미리보기처럼 MainPage 에 출력. 실시간 변동사항 반영. &nbsp; <br>
+
+&nbsp;
+
+ 3. Search Page &nbsp; <br>
+  - Keyword 를 Query 문을 통해 DB 에서 검색 후 출력. &nbsp; <br>
+
+&nbsp;
+
+ 4. 반응형 웹 디자인 &nbsp; <br>
+  - 보편적인 웹 사용환경에 따라 4가지 기준 선정 ( 1920px / 1440px / 1024px / 480px ) &nbsp; <br>
+  - MediaQuery 사용하여 기준에 따라 Contents 의 출력 개수, 크기 등 조절 &nbsp; <br>
+
+&nbsp;
+
+ 5. Web Crawling &nbsp; <br>
+  - Python 의 Selenium framework 를 통해 동적 웹 크롤링 작업 실행. &nbsp; <br>
+  - 필요한 이름, 가격, 사진 등으로 구성된 약 17,000개의 data 수집. &nbsp; <br>
+  - 수집한 Data 는 CSV 형식으로 Oracle DB 에 자동 Import. &nbsp; <br>
+
+&nbsp;
 &nbsp;
 
 **🎥시연 영상:**  
@@ -96,26 +126,32 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 &nbsp;
 
 **👷 [프로젝트 개요]**  
+
 - 공공 교통 데이터를 활용하여 데이터 분석 및 시각화 &nbsp; <br>
 - 실시간 도로 소통정보 및 사고정보 &nbsp; <br>
-- 서울시 각 자치구별 이동량을 분석한 생활 이동 &nbsp; <br>
-- 서울시 일별 지하철 교통량을 분석한 오늘 서울은 &nbsp; <br>
+- 서울시 각 자치구별 이동량을 분석한 '서울시 생활 이동' &nbsp; <br>
+- 서울시 일별 지하철 교통량을 분석한 '오늘 서울은' &nbsp; <br>
 
 &nbsp;
 
 **✨ [기능 설명]**
-1. 실시간 도로 정보 &nbsp; <br>
-- Open API 를 활용하여 Data 수집 및 반영, 도로 소통 정보를 각 구간별로 색상으로 표현 &nbsp; <br>
-- 실시간 사고 정보를 XML 형태로 수집 후 Parsing 하여 실시간으로 사고 정보 출력 &nbsp; <br>
 
-2. 서울시 생활 이동 &nbsp; <br>
-- QGIS 를 사용하여 서울 자치구 좌표 획득 후 KakaoMap API 를 활용하여 Polygon 제작
-- 공공데이터를 받아 일별 자치구별 이동량 확인
-- event 사용하여 각 폴리곤 별로 유입량/유출량 표현
+ 1. 실시간 도로 정보 &nbsp; <br>
+  - Open Api 를 활용하여 실시간으로 Data 수집 및 반영, 도로 소통 정보를 각 구간별로 색상으로 표현. &nbsp; <br>
+  - 실시간 사고 정보를 XML 형태로 수집 후 Parsing 하여 실시간으로 사고 정보 출력. &nbsp; <br>
 
-3. 오늘 서울은 &nbsp; <br>
-- 공공데이터를 받아 일별 지하철 교통량 확인
-- 역별 / 호선별 승하차 순위 Top 5 표현
+&nbsp;
+
+ 2. 서울시 생활 이동 &nbsp; <br>
+  - QGIS 를 사용하여 서울시 자치구 좌표 획득 후 KakaoMap API 를 활용하여 Polygon 제작. &nbsp; <br>
+  - 공공데이터를 csv 형태로 받아 일별 자치구별 이동량 data 확인 및 분석. &nbsp; <br>
+  - 각 polygon에 event 적용하여 mouseover / click 시 각 자치구별 유입량, 유출량 표현. &nbsp; <br>
+
+&nbsp;
+
+ 3. 오늘 서울은 &nbsp; <br>
+  - 공공데이터를 csv 형태로 받아 일별 지하철 교통량 확인. &nbsp; <br>
+  - 역별 / 호선별 승하차 순위 Top 5 표현. &nbsp; <br>
 
 &nbsp;
 
@@ -126,6 +162,7 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 &nbsp;
 
 ### 📙 Education
+
 - 전남대학교 기계공학과 졸업  / `13.03 – '21.08
 - [Goott Academy] &nbsp; <br>
 자바 활용 데이터 수집 및 분석을 위한 웹 시스템 구축 과정 수료 &nbsp; <br>
@@ -134,7 +171,8 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 &nbsp;
 
 ### 💳 Trivia
-##### 독서 목록
+#### 독서 목록
+
 - Do it! 자바 프로그래밍 입문
 - 이것이 자바다
 - Do it! 오라클로 베우는 데이터베이스 입문
