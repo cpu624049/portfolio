@@ -1,27 +1,28 @@
 <div style="color: #ff8d1e">배움과 경청은 내 발전의 밑거름</div>
 
+&nbsp;
 
 ## 강 지 수
 
-
-[Goott Academy] &nbsp; <br>
-자바 활용 데이터 수집 및 분석을 위한 웹 시스템 구축 과정 수료 &nbsp; <br>
-(자바 풀스택 개발자 과정) &nbsp; <br>
-
+&nbsp;
+&nbsp;
 
 미지에 대한 호기심과 탐구심을 바탕으로 항상 배우며 발전하려고 노력합니다. &nbsp; <br>
 어떤 문제에 직면하더라도 끈기를 가지고 다양한 시각으로 분석하며 어떻게든 해결책을 만듭니다. &nbsp; <br>
 사람들과의 대화와 소통을 좋아합니다. &nbsp; <br>
 다양한 IT 관련 정보, 기사, IT 기기 관련 정보수집을 좋아합니다. &nbsp; <br>
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 📧 Contact
 **Naver.** kjs940426@naver.com &nbsp; <br>
 **Gmail.** dkdlvhs94@gmail.com &nbsp; <br>
 **GitHub.** https://github.com/cpu624049 &nbsp; <br>
 
-
+&nbsp;
+&nbsp;
 
 ## 🛠️ Skills
 <img src="./icons/java_icon.png" width="60px" height="30px"/> &nbsp; **Java** &nbsp;&nbsp;&nbsp;
@@ -43,27 +44,34 @@
 - Spring Project 내부설계를 통해 CSV 파일 등의 자동 Import 활용 가능 &nbsp;
 - 웹 프로젝트 DB설계 경험 &nbsp;
 
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 ## 💻 Project
 
-**프로젝트 전체 PPT**
-<a src="./project_ppt.pptx">
 
-### <img src="./icons/ibara_icon.png" width="50px" height="50px"/> Interiorbara 인테리어 견적 추천 사이트
+### <img src="./icons/ibara_icon.jpg" width="50px" height="50px"/> Interiorbara 인테리어 견적 추천 사이트
+
+&nbsp;
 
 '24.03.19 - '24.04.26 (6주) , 개발인원 6명 &nbsp; <br>
+
+&nbsp;
 
 **💡 [프로젝트 개요]**
 - 기존의 인테리어 견적 및 상담 과정이 너무 불편하고 복잡하다. &nbsp; <br>
 - 또한 견적 및 상담 비용이 업체별, 상황별로 너무 천차만별이다. &nbsp; <br>
 - 쉽고 간단하게 견적을 미리 내볼 수 있고, 빠르게 업체와 컨택할 수 있는 플랫폼 개발. &nbsp; <br>
- 
+
+&nbsp;
+
 **👷 [맡은 역할]**
 - 팀장 &nbsp; <br>
 - Main Page, 통합 검색 Page &nbsp; <br>
 - DB &nbsp; <br>
+
+&nbsp;
 
 **✨ [기능 설명]**
 - [팀장] : 협업과 소통을 위해 Figma, Jira 등의 사용 권유, Git 교육 자료 생성 및 교육, 팀 상황에 맞는 Git Branch 전략 수립. &nbsp; <br>
@@ -71,13 +79,21 @@
 - [통합 검색 Page] : Keyword 검색 - Query문 작업 - 출력 / DB 에서 Keyword 에 맞는 검색내용 출력. &nbsp; <br>
 - [DB] : 전체적인 구조설계, Web Crawling 을 사용한 Data 수집, Data 취합 및 적용 &nbsp; <br>
 
+&nbsp;
+
 **🎥시연 영상:**  
 https://www.youtube.com/watch?v=Zujd17yREBY
 
+&nbsp;
+&nbsp;
 
 ### <img src="./icons/traffic_icon.png" width="50px" height="50px"/> Traffic Info : 공공 교통 데이터 분석 프로젝트
 
+&nbsp;
+
 '24.04.29 - '24.05.29 (4주) , 개인 프로젝트 &nbsp; <br>
+
+&nbsp;
 
 **👷 [프로젝트 개요]**  
 - 공공 교통 데이터를 활용하여 데이터 분석 및 시각화 &nbsp; <br>
@@ -85,6 +101,7 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 - 서울시 각 자치구별 이동량을 분석한 생활 이동 &nbsp; <br>
 - 서울시 일별 지하철 교통량을 분석한 오늘 서울은 &nbsp; <br>
 
+&nbsp;
 
 **✨ [기능 설명]**
 1. 실시간 도로 정보 &nbsp; <br>
@@ -100,10 +117,13 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 - 공공데이터를 받아 일별 지하철 교통량 확인
 - 역별 / 호선별 승하차 순위 Top 5 표현
 
+&nbsp;
+
 **🎥시연 영상:**  
 https://www.youtube.com/watch?v=Zujd17yREBY
 
-
+&nbsp;
+&nbsp;
 
 ### 📙 Education
 - 전남대학교 기계공학과 졸업  / `13.03 – '21.08
@@ -111,7 +131,7 @@ https://www.youtube.com/watch?v=Zujd17yREBY
 자바 활용 데이터 수집 및 분석을 위한 웹 시스템 구축 과정 수료 &nbsp; <br>
 (자바 풀스택 개발자 과정) / '23.12.12 ~ '24.06.21 &nbsp; <br>
 
-
+&nbsp;
 
 ### 💳 Trivia
 ##### 독서 목록
