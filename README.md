@@ -1,4 +1,4 @@
-<div style="color: #ff8d1e">배움과 경청은 내 발전의 밑거름</div>
+<div style="color: #ff8d1e">배움과 소통은 내 생각을 현실로 만드는 힘</div>
 
 &nbsp;
 
