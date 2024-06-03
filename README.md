@@ -112,7 +112,7 @@
 &nbsp;
 
 **🎥시연 영상:**  
-https://www.youtube.com/watch?v=Zujd17yREBY
+https://youtu.be/MyrOMuiwFDs
 
 &nbsp;
 &nbsp;
