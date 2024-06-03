@@ -22,7 +22,7 @@
 &nbsp;
 
 ## 🛠️ Skills
-<img src="./java_icon.png" width="30px" height="30px"/> &nbsp; **Java** &nbsp;&nbsp;&nbsp;
+<img src="./java_icon.png" width="50px" height="30px"/> &nbsp; **Java** &nbsp;&nbsp;&nbsp;
 <img src="./spring_icon.png" width="30px" height="30px"/> &nbsp; **Spring** &nbsp;&nbsp;&nbsp;
 
 - Java 기반의 Spring MVC 패턴 구현 가능 &nbsp;
@@ -30,11 +30,11 @@
 - AOP, IoC와 DI 등 Spring의 의존성 관리 메커니즘의 학습과 이해 &nbsp;
 
 <img src="./python_icon.png" width="30px" height="30px"/> **Python** &nbsp;
-<img src="./selenium_icon.png" width="30px" height="30px"/> **Selenium** &nbsp;
+<img src="./selenium_icon.png" width="50px" height="30px"/> **Selenium** &nbsp;
 
 - Python 기반의 Selenium Framework 를 이용한 Web Crawling 기능을 프로젝트에 반영 &nbsp;
    
-<img src="./oraclesql_icon.png" width="30px" height="30px"/> **Oracle SQL** &nbsp;
+<img src="./oraclesql_icon.png" width="50px" height="30px"/> **Oracle SQL** &nbsp;
 
 - 요구사항에 필요한 Join과 SubQuery, 가상 테이블(View) 활용 가능 &nbsp;
 - MyBatis를 이용한 Spring Project와의 DB연동 &nbsp;
@@ -46,7 +46,7 @@
 
 ## 💻 Project
 
-### <img src="./oraclesql_icon.png" width="30px" height="30px"/> Interiorbara 인테리어 견적 추천 사이트
+### <img src="./ibara_icon.png" width="50px" height="50px"/> Interiorbara 인테리어 견적 추천 사이트
 
 '24.03.19 - '24.04.26 (6주) , 개발인원 6명
 
