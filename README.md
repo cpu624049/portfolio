@@ -98,7 +98,7 @@
 &nbsp;
 
  4. 반응형 웹 디자인 &nbsp; <br>
-  - 보편적인 웹 사용환경에 따라 4가지 기준 선정 ( 1920px / 1440px / 1024px / 480px ) &nbsp; <br>
+  - 보편적인 웹 사용환경에 따라 4가지 기준 선정 ( 1920px / 1440px / 1024px / 430px ) &nbsp; <br>
   - MediaQuery 사용하여 기준에 따라 Contents 의 출력 개수, 크기 등 조절 &nbsp; <br>
 
 &nbsp;
